@@ -1,1 +1,1 @@
-/etc/passwd
+echo /etc/passwd
